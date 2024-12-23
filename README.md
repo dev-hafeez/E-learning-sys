@@ -1,6 +1,4 @@
-Here’s a professional version of the steps for your GitHub README: 
 
----
 
 # Project Setup Instructions
 
@@ -58,5 +56,3 @@ Ensure the following tools are installed on your system:
 - For any issues, ensure all dependencies are installed, and recheck the `server.js` file configuration.
 
 ---
-
-Let me know if you'd like further edits!
