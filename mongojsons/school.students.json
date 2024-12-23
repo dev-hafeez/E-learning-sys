@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "67682a2ad23b783ca8ff1f18"
+  },
+  "rollNo": "SP23-BSE-013",
+  "marks": 9,
+  "name": "Kodu"
+},
+{
+  "_id": {
+    "$oid": "67682a2ad23b783ca8ff1f19"
+  },
+  "rollNo": "SP23-BSE-047",
+  "marks": 51,
+  "name": "haphice"
+},
+{
+  "_id": {
+    "$oid": "67682a2ad23b783ca8ff1f1a"
+  },
+  "rollNo": "SP23-BSE-051",
+  "marks": 55,
+  "name": "pahari"
+},
+{
+  "_id": {
+    "$oid": "67682a2ad23b783ca8ff1f1b"
+  },
+  "rollNo": "SP23-BSE-055",
+  "marks": 55,
+  "name": "punjabi"
+}]
